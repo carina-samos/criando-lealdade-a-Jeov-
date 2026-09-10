@@ -1,0 +1,6 @@
+{
+  "name": "A Jornada dos Gibeonitas",
+  "description": "Joguinho infantil educativo e bíblico sobre fé, humildade, paciência e lealdade baseado na história dos gibeonitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
